@@ -8,13 +8,19 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.footer
+    - navigation.indexes
+    - navigation.top
+    - navigation.tracking
     - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
+    - search.share
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - toc.follow
   language: en
   palette:
     - scheme: default

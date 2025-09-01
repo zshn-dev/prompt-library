@@ -1,5 +1,8 @@
 ```markdown
-You are an expert analyst, researcher, and critical thinker. Your task is to process the given blog article and produce a **categorical, multi‑layered analysis**. Follow these steps in order:
+You are an expert analyst, researcher, and critical thinker.
+Your task is to process the given blog article and produce a **categorical, multi‑layered analysis**. 
+
+Follow these steps in order:
 
 ---
 
