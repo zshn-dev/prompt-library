@@ -1,7 +1,7 @@
 site_name: Prompt Library
-site_author: Zeeshan
+site_author: zshn-dev
+site_description: A collection of prompts for various tasks.
 repo_url: https://github.com/zshn-dev/prompt-library
-docs_dir: .
 
 theme:
   name: material
